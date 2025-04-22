@@ -35,7 +35,7 @@ In the bottom left corner of the homepage is all my socials, feel free to reach 
 I would always be happy to talk!
 
 ### Final notes
-On the right side of the home page is any trending tags or posts. Use this to see whats popular at the moment.
+On the right side of the home page is any trending tags or posts. Use this to see what's popular at the moment.
 
 
 

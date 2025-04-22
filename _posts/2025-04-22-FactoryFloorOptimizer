@@ -4,9 +4,7 @@ author: Thomas
 date: 2025-04-17 00:00:00 -5:00
 category: Projects
 tags: []
-description: This project goal is to take diagrams and find how visual dense the diagram is, using computer vision techniques like open_cv. 
+description: Optimizing Factroy floor layout using a genetic Algorithm and concurrent code.
 published: true
 toc: true
 ---
-
-
