@@ -6,7 +6,7 @@ order: 4
 ## Welcome to my portfolio and blog
 
 
-On the main [home page](PUT LINK HERE) you can find all my blog and posts about 
+On the main [home page](https://tomicgun.github.io/) you can find all my blog and posts about 
 what I have been up to. However, you can use the many tools in the left column to filter 
 and sort all the posts.
 
